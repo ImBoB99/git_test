@@ -1,1 +1,2 @@
 THis is text for you!
+CHecking git commit
